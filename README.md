@@ -33,6 +33,7 @@ Upload your circuit image to:
 ---
 
 📱 MIT App Inventor App
+--
 
 The app sends requests to control the relay:
 ```plaintext
@@ -57,9 +58,18 @@ http://<ESP-IP>/gpio/0   → Turn OFF
 └── README.md
 
 ```
+
+
+# Process
+
+### Download pdf 
+
+
+[Installation_Guide.pdf](https://github.com/user-attachments/files/24133836/Installation_Guide.pdf)
 ---
 
 ## 🚀 Features
+
 - Control appliances wirelessly over WiFi  
 - Works offline on local WiFi (no internet required)  
 - Clean and simple mobile app interface  
@@ -100,8 +110,6 @@ https://www.arduino.cc/en/software
 
 ### 🔗 ESP8266 Board Installation  
 https://github.com/esp8266/Arduino
-
-
 
 ---
 
