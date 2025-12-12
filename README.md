@@ -47,12 +47,14 @@ http://<ESP-IP>/gpio/0   → Turn OFF
 
 
 # 📂 Project Structure
+```plaintext
 │
 ├── code
 │
 ├── mit-app
 |
 └── README.md
+
 
 ---
 
