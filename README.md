@@ -1,13 +1,13 @@
-# WiFi Controlled Light Using ESP8266, Relay, Switch & MIT App Inventor
+# 📡💡 WiFi Controlled Light Using ESP8266, Relay, Switch & MIT App Inventor
 
-This project allows you to control a light or electrical device wirelessly using:
+ This project allows you to control a light or electrical device wirelessly using:
 
 - NodeMCU ESP8266  
 - Relay module  
 - Manual wall switch / toggle switch  
 - MIT App Inventor Android app  
 
-The appliance can be controlled in **two ways**:
+ The appliance can be controlled in **two ways**:
 
 1. **Physically**, using a wall switch  
 2. **Wirelessly**, using an app  
@@ -35,9 +35,10 @@ Upload your circuit image to:
 📱 MIT App Inventor App
 
 The app sends requests to control the relay:
-
+```plaintext
 http://<ESP-IP>/gpio/1   → Turn ON  
-http://<ESP-IP>/gpio/0   → Turn OFF 
+http://<ESP-IP>/gpio/0   → Turn OFF
+```
 
 ### Images
 <img width="700" height="500" alt="Screenshot 2025-12-12 225223" src="https://github.com/user-attachments/assets/2004421e-999d-4428-8935-62bb4ad254be" />  <img width="700" height="500" alt="Screenshot 2025-12-12 225237" src="https://github.com/user-attachments/assets/d8458b45-d57a-41b3-9dc1-5795f5978d3f" />
@@ -55,7 +56,7 @@ http://<ESP-IP>/gpio/0   → Turn OFF
 |
 └── README.md
 
-
+```
 ---
 
 ## 🚀 Features
